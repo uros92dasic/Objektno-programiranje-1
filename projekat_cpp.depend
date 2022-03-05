@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1591319898 source:c:\users\popzn\desktop\projekat_cpp\main.cpp
+	<iostream>
+	"osoba.h"
+	"ucenik.h"
+	<fstream>
+	<list>
+
+1591316531 c:\users\popzn\desktop\projekat_cpp\include\osoba.h
+	<iostream>
+
+1591319888 c:\users\popzn\desktop\projekat_cpp\include\ucenik.h
+	<list>
+	"osoba.h"
+	<iostream>
+
+1591319888 source:c:\users\popzn\desktop\projekat_cpp\src\ucenik.cpp
+	"ucenik.h"
+	"osoba.h"
+	<list>
+
+1591317161 source:c:\users\popzn\desktop\projekat_cpp\src\osoba.cpp
+	"osoba.h"
+	<sstream>
+	<string>
+
+1591362323 source:c:\users\popzn\desktop\projekat_cpp\src\predmet.cpp
+	"predmet.h"
+
+1591362323 c:\users\popzn\desktop\projekat_cpp\include\predmet.h
+	<iostream>
+
+1591362279 source:c:\users\popzn\desktop\projekat_cpp\src\profesor.cpp
+	"profesor.h"
+	"predmet.h"
+	<iostream>
+
+1591362297 c:\users\popzn\desktop\projekat_cpp\include\profesor.h
+	"predmet.h"
+	"osoba.h"
+
